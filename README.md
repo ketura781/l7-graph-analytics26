@@ -6,7 +6,7 @@
 
 ## 🇧🇷 Visão Geral do Projeto
 
-Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
+Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura Free**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
 
 O modelo de dados em grafo representa de forma conectada os principais elementos do negócio, permitindo uma visão estrutural clara das relações entre áreas, projetos e tecnologias.
 
@@ -52,7 +52,7 @@ A estrutura do grafo possibilita:
 
 ## Tecnologias Utilizadas
 
-- Neo4j Aura 
+- Neo4j Aura (Free)
 - Cypher Query Language
 - Modelagem de Dados em Grafos
 - Análise de Grafos
@@ -127,5 +127,6 @@ The graph structure enables:
 ## About This Project
 
 This project is part of my **professional portfolio** and demonstrates my ability to **design graph data models**, **analyze complex relationships**, and **extract strategic insights** from connected data.
+
 
 
