@@ -32,7 +32,8 @@ bottleneck detection, and technology dependency analysis.
    - 03_dashboard_queries.cypher
 
 ## Tecnologias Utilizadas
-- Neo4j Aura (Free)
+
+- Neo4j Aura 
 - Cypher Query Language
 - Graph Data Modeling
 - Graph Analytics
