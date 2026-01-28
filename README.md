@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="#-visão-geral-do-projeto">🇧🇷 Português</a> |
+  <a href="#-project-overview">🇺🇸 English</a>
+</p>
+
 # Análise de Grafos L7 | L7 Graph Analytics
 
 ![Visão geral do grafo](images/grafo-visao-geral.png)
