@@ -1,9 +1,9 @@
 # Análise de Grafos L7 | L7 Graph Analytics
 
-![Análise de dependências](images/analise-dependencias.png)
+![Visão geral do grafo](images/grafo-visao-geral.png)
 
 
-Este projeto é uma prova de conceito de análise de grafos desenvolvida usando o Neo4j Aura Free para apoiar a inteligência de negócios e a tomada de decisões estratégicas na L7 Tech.
+Este projeto é uma prova de conceito de análise de grafos desenvolvida usando o Neo4j Aura F para apoiar a inteligência de negócios e a tomada de decisões estratégicas na L7 Tech.
 
 ## Visão geral do projeto
 O modelo gráfico representa:
