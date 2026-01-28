@@ -6,42 +6,47 @@
 
 ## 🇧🇷 Visão Geral do Projeto
 
-Este projeto é uma **prova de conceito de análise de grafos** desenvolvida utilizando **Neo4j Aura**, com foco em **inteligência de negócios** e **suporte à tomada de decisões estratégicas** na L7 Tech.
+Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
 
-O modelo de dados em grafos permite representar e analisar relações complexas entre áreas, projetos, processos e tecnologias, oferecendo uma visão sistêmica do negócio.
+O modelo de dados em grafo representa de forma conectada os principais elementos do negócio, permitindo uma visão estrutural clara das relações entre áreas, projetos, processos e tecnologias.
 
 ---
 
-## 🧩 Modelo de Dados
+## 🧩 Modelo de Dados em Grafo
 
-O grafo representa as seguintes entidades:
+O grafo foi modelado para representar:
 
 - Clientes  
 - Projetos  
 - Processos  
-- Órgãos Transversais  
+- Áreas / Órgãos Transversais  
 - Colaboradores  
-- Impactos Operacionais  
+- Tecnologias  
+
+As conexões entre essas entidades permitem análises estruturais e estratégicas baseadas em dependências e relacionamentos reais.
 
 ---
 
-## 🎯 Objetivos e Impacto de Negócio
+## 🎯 Impacto para o Negócio
 
-Este modelo permite:
+A estrutura do grafo possibilita:
 
-- Identificar **projetos críticos** com alto grau de dependência  
+- Identificar **projetos críticos** com alto grau de dependência estrutural  
 - Detectar **gargalos operacionais** entre áreas e processos  
-- Apoiar **decisões estratégicas** de priorização de iniciativas  
+- Apoiar a **priorização estratégica de iniciativas**  
 - Mapear **riscos de dependência tecnológica**  
-- Melhorar a **comunicação entre áreas técnicas e executivas**
-
-A estrutura possibilita análises avançadas como avaliação de criticidade, análise de dependências e identificação de riscos sistêmicos.
+- Melhorar a comunicação entre áreas técnicas e executivas  
 
 ---
 
 ## ▶️ Como Executar o Projeto
 
 1. Criar uma instância no **Neo4j Aura**
-2. Abrir o **Neo4j Browser**
+2. Acessar o **Neo4j Browser**
 3. Executar os arquivos Cypher na seguinte ordem:
+
+```text
+01_create_nodes.cypher
+02_create_relationships.cypher
+03_dashboard_queries.cypher
 
