@@ -52,7 +52,7 @@ A estrutura do grafo possibilita:
 
 ## Tecnologias Utilizadas
 
-- Neo4j Aura (Free)
+- Neo4j Aura 
 - Cypher Query Language
 - Modelagem de Dados em Grafos
 - Análise de Grafos
