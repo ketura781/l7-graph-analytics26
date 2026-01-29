@@ -1,9 +1,7 @@
 # L7 Graph Analytics | Análise de Grafos L7
-
 🌍 **Language / Idioma**  
-[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
+[🇧🇷 Português](#portugues) | [🇺🇸 English](#english)
 
----
 
 ![Visão geral do grafo](images/grafo-visao-geral.png)
 
