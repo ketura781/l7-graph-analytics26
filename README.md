@@ -1,13 +1,8 @@
-<p align="right">
-  <a href="#-visão-geral-do-projeto">🇧🇷 Português</a> |
-  <a href="#-project-overview">🇺🇸 English</a>
-</p>
-
-## Índice
-- [Visão Geral](#🇧🇷-visão-geral-do-projeto)
-- [Impacto](#🎯-impacto-para-o-negócio)
-- [Como Executar](#▶️-como-executar-o-projeto)
-- [English Version](#🇺🇸-project-overview)
+## 🔎 Sumário
+- [Visão Geral do Projeto](#visao-geral-do-projeto)
+- [Modelo de Dados em Grafo](#modelo-de-dados-em-grafo)
+- [Impacto para o Negócio](#impacto-para-o-negocio)
+- [Como Executar o Projeto](#como-executar-o-projeto)
 
 
 # Análise de Grafos L7 | L7 Graph Analytics
