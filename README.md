@@ -1,4 +1,4 @@
-## 🔎 Sumário
+##  Sumário
 - [Visão Geral do Projeto](#visao-geral-do-projeto)
 - [Modelo de Dados em Grafo](#modelo-de-dados-em-grafo)
 - [Impacto para o Negócio](#impacto-para-o-negocio)
