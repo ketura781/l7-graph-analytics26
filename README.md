@@ -1,139 +1,115 @@
-##  Sumário
-- [Visão Geral do Projeto](#visao-geral-do-projeto)
-- [Modelo de Dados em Grafo](#modelo-de-dados-em-grafo)
-- [Impacto para o Negócio](#impacto-para-o-negocio)
-- [Como Executar o Projeto](#como-executar-o-projeto)
+# L7 Graph Analytics | Análise de Gráficos L7
 
+## 🔎 Sumário | Table of Contents
 
-# Análise de Grafos L7 | L7 Graph Analytics
-
-![Visão geral do grafo](images/grafo-visao-geral.png)
+* [🇧🇷 Visão Geral do Projeto](#visao-geral-do-projeto)
+* [🇺🇸 Project Overview](#project-overview)
+* [🧩 Modelo de Dados em Grafo](#modelo-de-dados-em-grafo)
+* [🧩 Graph Data Model](#graph-data-model)
+* [🎯 Impacto para o Negócio](#impacto-para-o-negocio)
+* [🎯 Business Impact](#business-impact)
+* [▶️ Como Executar o Projeto](#como-executar-o-projeto)
+* [▶️ How to Run the Project](#how-to-run-the-project)
 
 ---
 
 ## 🇧🇷 Visão Geral do Projeto
 
-Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura Free**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
+Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
 
-O modelo de dados em grafo representa de forma conectada os principais elementos do negócio, permitindo uma visão estrutural clara das relações entre áreas, projetos e tecnologias.
+O modelo de dados em grafo representa de forma conectada os principais elementos do negócio, permitindo uma visão estrutural clara das relações entre áreas, projetos, processos e tecnologias.
 
----
-
-## Modelo de Dados em Grafo
-
-O grafo foi modelado para representar:
-
-- Clientes  
-- Projetos  
-- Processos  
-- Áreas / Órgãos Transversais  
-- Colaboradores  
-- Tecnologias  
-
-As conexões entre essas entidades permitem análises estruturais e estratégicas baseadas em dependências e relacionamentos reais.
-
----
-
-## Impacto para o Negócio
-
-A estrutura do grafo possibilita:
-
-- Identificar **projetos críticos** com alto grau de dependência estrutural  
-- Detectar **gargalos operacionais** entre áreas e processos  
-- Apoiar a **priorização estratégica de iniciativas**  
-- Mapear **riscos de dependência tecnológica**  
-- Melhorar a comunicação entre áreas técnicas e executivas  
-
----
-
-## Como Executar o Projeto
-
-1. Criar uma instância gratuita no **Neo4j Aura**
-2. Acessar o **Neo4j Browser**
-3. Executar os arquivos Cypher na seguinte ordem:
-   - `01_create_nodes.cypher`
-   - `02_create_relationships.cypher`
-   - `03_dashboard_queries.cypher`
-
----
-
-## Tecnologias Utilizadas
-
-- Neo4j Aura (Free)
-- Cypher Query Language
-- Modelagem de Dados em Grafos
-- Análise de Grafos
-- Business Intelligence
-
----
-
-## Sobre o Projeto
-
-Este projeto faz parte do meu **portfólio profissional** e demonstra minha capacidade de **modelar dados complexos**, **estruturar grafos**, e **extrair insights estratégicos** para apoiar decisões de negócio.
-
----
+![Visão geral do grafo](images/grafo-visao-geral.png)
 
 ---
 
 ## 🇺🇸 Project Overview
 
-This project is a **graph analytics proof of concept** developed using **Neo4j Aura Free**, focused on **business intelligence** and **strategic decision-making** at **L7 Tech**.
+This project is a **proof of concept for graph analytics**, developed using **Neo4j Aura**, focused on **business intelligence** and **strategic decision-making support** for **L7 Tech**.
 
-The graph data model provides a clear structural view of business entities and their relationships, enabling advanced dependency and impact analysis.
+The graph data model connects core business elements, enabling a clear structural view of relationships between areas, projects, processes, and technologies.
 
----
-
-## Graph Data Model
-
-The graph represents:
-
-- Clients  
-- Projects  
-- Processes  
-- Cross-functional Areas  
-- Team Members  
-- Technologies  
-
-These entities are connected through meaningful relationships that support structural and strategic analysis.
+![Graph overview](images/grafo-visao-geral.png)
 
 ---
 
-## Business Impact
+## 🧩 Modelo de Dados em Grafo
+
+O grafo foi modelado para representar:
+
+* Clientes
+* Projetos
+* Processos
+* Áreas / Órgãos Transversais
+* Colaboradores
+
+As conexões entre essas entidades permitem análises estruturais e estratégicas baseadas em dependências e relacionamentos reais.
+
+---
+
+## 🧩 Graph Data Model
+
+The graph was designed to represent:
+
+* Clients
+* Projects
+* Processes
+* Areas / Cross-functional units
+* Team members
+
+Connections between these entities enable structural and strategic analysis based on real dependencies and relationships.
+
+---
+
+## 🎯 Impacto para o Negócio
+
+A estrutura do grafo permite:
+
+* Identificar projetos críticos com alto grau de dependência estrutural
+* Detectar gargalos operacionais entre áreas e processos
+* Apoiar a priorização estratégica de iniciativas
+* Mapear riscos de dependência tecnológica
+* Melhorar a comunicação entre áreas técnicas e executivas
+
+---
+
+## 🎯 Business Impact
 
 The graph structure enables:
 
-- Identification of **critical projects** with high structural dependency  
-- Detection of **operational bottlenecks**  
-- Support for **strategic initiative prioritization**  
-- Mapping of **technology dependency risks**  
-- Improved communication between technical and executive teams  
+* Identification of critical projects with high dependency levels
+* Detection of operational bottlenecks across areas and processes
+* Strategic prioritization of initiatives
+* Mapping of technological dependency risks
+* Improved communication between technical and executive teams
 
 ---
 
-## How to Run the Project
+## ▶️ Como Executar o Projeto
 
-1. Create a free **Neo4j Aura** instance
-2. Open the **Neo4j Browser**
-3. Run the Cypher scripts in the following order:
-   - `01_create_nodes.cypher`
-   - `02_create_relationships.cypher`
-   - `03_dashboard_queries.cypher`
+1. Criar uma instância no **Neo4j Aura**
+2. Acessar o **Neo4j Browser**
+3. Executar os arquivos Cypher na seguinte ordem:
 
----
-
-## Technologies Used
-
-- Neo4j Aura (Free)
-- Cypher Query Language
-- Graph Data Modeling
-- Graph Analytics
-- Business Intelligence
+```bash
+01_create_nodes.cypher
+02_create_relationships.cypher
+03_dashboard_queries.cypher
+```
 
 ---
 
-## About This Project
+## ▶️ How to Run the Project
 
-This project is part of my **professional portfolio** and demonstrates my ability to **design graph data models**, **analyze complex relationships**, and **extract strategic insights** from connected data.
+1. Create a **Neo4j Aura** instance
+2. Access the **Neo4j Browser**
+3. Run the Cypher files in the following order:
+
+```bash
+01_create_nodes.cypher
+02_create_relationships.cypher
+03_dashboard_queries.cypher
+```
 
 
 
