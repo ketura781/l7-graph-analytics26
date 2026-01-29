@@ -1,19 +1,25 @@
-##  Sumário
-- [Visão Geral do Projeto](#visao-geral-do-projeto)
-- [Modelo de Dados em Grafo](#modelo-de-dados-em-grafo)
-- [Impacto para o Negócio](#impacto-para-o-negocio)
-- [Como Executar o Projeto](#como-executar-o-projeto)
-
-
 # Análise de Grafos L7 | L7 Graph Analytics
+
+🌍 **Idioma / Language**  
+[🇧🇷 Português](#visao-geral-do-projeto) | [🇺🇸 English](#project-overview)
 
 ![Visão geral do grafo](images/grafo-visao-geral.png)
 
 ---
 
-## 🇧🇷 Visão Geral do Projeto
+## 🔎 Sumário (Português)
+- [Visão Geral do Projeto](#visao-geral-do-projeto)
+- [Modelo de Dados em Grafo](#modelo-de-dados-em-grafo)
+- [Impacto para o Negócio](#impacto-para-o-negocio)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Sobre o Projeto](#sobre-o-projeto)
 
-Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura Free**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
+---
+
+## Visão Geral do Projeto
+
+Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
 
 O modelo de dados em grafo representa de forma conectada os principais elementos do negócio, permitindo uma visão estrutural clara das relações entre áreas, projetos e tecnologias.
 
@@ -48,7 +54,7 @@ A estrutura do grafo possibilita:
 
 ## Como Executar o Projeto
 
-1. Criar uma instância gratuita no **Neo4j Aura**
+1. Criar uma instância no **Neo4j Aura**
 2. Acessar o **Neo4j Browser**
 3. Executar os arquivos Cypher na seguinte ordem:
    - `01_create_nodes.cypher`
@@ -59,25 +65,35 @@ A estrutura do grafo possibilita:
 
 ## Tecnologias Utilizadas
 
-- Neo4j Aura (Free)
-- Cypher Query Language
-- Modelagem de Dados em Grafos
-- Análise de Grafos
-- Business Intelligence
+- Neo4j Aura  
+- Cypher Query Language  
+- Modelagem de Dados em Grafos  
+- Análise de Grafos  
+- Business Intelligence  
 
 ---
 
 ## Sobre o Projeto
 
-Este projeto faz parte do meu **portfólio profissional** e demonstra minha capacidade de **modelar dados complexos**, **estruturar grafos**, e **extrair insights estratégicos** para apoiar decisões de negócio.
+Este projeto faz parte do meu **portfólio profissional** e demonstra minha capacidade de **modelar dados complexos**, **estruturar grafos** e **extrair insights estratégicos** para apoiar decisões de negócio.
 
 ---
 
 ---
 
-## 🇺🇸 Project Overview
+## 🔎 Table of Contents (English)
+- [Project Overview](#project-overview)
+- [Graph Data Model](#graph-data-model)
+- [Business Impact](#business-impact)
+- [How to Run the Project](#how-to-run-the-project)
+- [Technologies Used](#technologies-used)
+- [About This Project](#about-this-project)
 
-This project is a **graph analytics proof of concept** developed using **Neo4j Aura Free**, focused on **business intelligence** and **strategic decision-making** at **L7 Tech**.
+---
+
+## Project Overview
+
+This project is a **graph analytics proof of concept** developed using **Neo4j Aura**, focused on **business intelligence** and **strategic decision-making** at **L7 Tech**.
 
 The graph data model provides a clear structural view of business entities and their relationships, enabling advanced dependency and impact analysis.
 
@@ -112,7 +128,7 @@ The graph structure enables:
 
 ## How to Run the Project
 
-1. Create a free **Neo4j Aura** instance
+1. Create a **Neo4j Aura** instance
 2. Open the **Neo4j Browser**
 3. Run the Cypher scripts in the following order:
    - `01_create_nodes.cypher`
@@ -123,17 +139,18 @@ The graph structure enables:
 
 ## Technologies Used
 
-- Neo4j Aura (Free)
-- Cypher Query Language
-- Graph Data Modeling
-- Graph Analytics
-- Business Intelligence
+- Neo4j Aura  
+- Cypher Query Language  
+- Graph Data Modeling  
+- Graph Analytics  
+- Business Intelligence  
 
 ---
 
 ## About This Project
 
 This project is part of my **professional portfolio** and demonstrates my ability to **design graph data models**, **analyze complex relationships**, and **extract strategic insights** from connected data.
+
 
 
 
