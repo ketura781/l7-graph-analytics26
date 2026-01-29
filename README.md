@@ -1,10 +1,8 @@
 <p align="right">
-  🔎 Navegar por idioma:  
-  <a href="#🇧🇷-visão-geral-do-projeto">🇧🇷 Português</a> | 
-  <a href="#🇺🇸-project-overview">🇺🇸 English</a>
+  <a href="#-visão-geral-do-projeto">🇧🇷 Português</a> |
+  <a href="#-project-overview">🇺🇸 English</a>
 </p>
 
----
 
 
 # Análise de Grafos L7 | L7 Graph Analytics
