@@ -1,11 +1,15 @@
 # Análise de Grafos L7 | L7 Graph Analytics
 
+<a id="top"></a>
+
 🌍 **Idioma / Language**  
-[🇧🇷 Português](#visao-geral-do-projeto) | [🇺🇸 English](#project-overview)
+[🇧🇷 Português](#portugues) | [🇺🇸 English](#english)
 
 ![Visão geral do grafo](images/grafo-visao-geral.png)
 
 ---
+
+<a id="portugues"></a>
 
 ## 🔎 Sumário (Português)
 - [Visão Geral do Projeto](#visao-geral-do-projeto)
@@ -21,7 +25,7 @@
 
 Este projeto é uma **prova de conceito de análise de grafos**, desenvolvida utilizando **Neo4j Aura**, com foco em **inteligência de negócios** e **apoio à tomada de decisões estratégicas** na empresa **L7 Tech**.
 
-O modelo de dados em grafo representa de forma conectada os principais elementos do negócio, permitindo uma visão estrutural clara das relações entre áreas, projetos e tecnologias.
+O modelo de dados em grafo representa de forma conectada os principais elementos do negócio, permitindo uma visão estrutural clara das relações entre áreas, projetos, processos e tecnologias.
 
 ---
 
@@ -77,9 +81,13 @@ A estrutura do grafo possibilita:
 
 Este projeto faz parte do meu **portfólio profissional** e demonstra minha capacidade de **modelar dados complexos**, **estruturar grafos** e **extrair insights estratégicos** para apoiar decisões de negócio.
 
+[⬆ Voltar ao topo](#top)
+
 ---
 
 ---
+
+<a id="english"></a>
 
 ## 🔎 Table of Contents (English)
 - [Project Overview](#project-overview)
@@ -93,7 +101,7 @@ Este projeto faz parte do meu **portfólio profissional** e demonstra minha capa
 
 ## Project Overview
 
-This project is a **graph analytics proof of concept** developed using **Neo4j Aura**, focused on **business intelligence** and **strategic decision-making** at **L7 Tech**.
+This project is a **graph analytics proof of concept**, developed using **Neo4j Aura**, focused on **business intelligence** and **strategic decision-making** at **L7 Tech**.
 
 The graph data model provides a clear structural view of business entities and their relationships, enabling advanced dependency and impact analysis.
 
@@ -150,6 +158,9 @@ The graph structure enables:
 ## About This Project
 
 This project is part of my **professional portfolio** and demonstrates my ability to **design graph data models**, **analyze complex relationships**, and **extract strategic insights** from connected data.
+
+[⬆ Back to top](#top)
+ from connected data.
 
 
 
