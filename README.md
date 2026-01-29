@@ -1,5 +1,5 @@
 # L7 Graph Analytics | Análise de Grafos L7
-🌍 **Language / Idioma**  
+ **Language / Idioma**  
 [🇧🇷 Português](#portugues) | [🇺🇸 English](#english)
 
 
