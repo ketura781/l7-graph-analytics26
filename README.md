@@ -3,6 +3,11 @@
   <a href="#-project-overview">🇺🇸 English</a>
 </p>
 
+## Índice
+- [Visão Geral](#🇧🇷-visão-geral-do-projeto)
+- [Impacto](#🎯-impacto-para-o-negócio)
+- [Como Executar](#▶️-como-executar-o-projeto)
+- [English Version](#🇺🇸-project-overview)
 
 
 # Análise de Grafos L7 | L7 Graph Analytics
